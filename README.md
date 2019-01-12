@@ -3,23 +3,23 @@
 ## Introduction
 In this project, you'll use generative adversarial networks to generate new images of faces.
 
-## Images generated in epoch: 10
+### Images generated in epoch: 10
 
 ![epoch10](images/epoch10.png)
 
-## Images generated in epoch: 20
+### Images generated in epoch: 20
 
 ![epoch10](images/epoch20.png)
 
-## Images generated in epoch: 30
+### Images generated in epoch: 30
 
 ![epoch10](images/epoch30.png)
 
-## Images generated in epoch: 40
+### Images generated in epoch: 40
 
 ![epoch10](images/epoch40.png)
 
-## Images generated in epoch: 50
+### Images generated in epoch: 50
 
 ![epoch10](images/epoch50.png)
 
@@ -33,9 +33,9 @@ git clone https://github.com/udacity/deep-learning-v2-pytorch/tree/master/
 Since we need GPU support in this project, so we decided to complete our project using the provided, in-classroom project notebook; this will just require that we run the project notebook, and download the complete files later on.
 
 ## Structure of Project
-dlnd_face_generation.ipynb: Notebook of the project
-problem_unittests.py: Test file for different TODO functions in the project
-dlnd_face_generation.html: HTML version of the notebook
-
+* dlnd_face_generation.ipynb: Notebook of the project
+* problem_unittests.py: Test file for different TODO functions in the project
+* dlnd_face_generation.html: HTML version of the notebook
+* images folder: different epochs outputs
 
 
