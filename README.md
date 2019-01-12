@@ -1,7 +1,7 @@
 # Face Generation
 
 ## Introduction
-In this project, you'll use generative adversarial networks to generate new images of faces. The model is trained using celebrity images for 50 epochs to generate some realistic face images by its own. We can see from the images below that as we train the model for epoch, it generates more realistic images with more realistic features.
+In this project, we'll use generative adversarial networks to generate new images of faces. The model is trained using celebrity images for 50 epochs to generate some realistic face images by its own. We can see from the images below that as we train the model for epoch, it generates more realistic images with more realistic features.
 
 ### Images generated in epoch: 10
 
