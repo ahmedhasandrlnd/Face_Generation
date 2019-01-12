@@ -3,6 +3,25 @@
 ## Introduction
 In this project, you'll use generative adversarial networks to generate new images of faces.
 
+## Images generated in epoch: 10
+
+![epoch10](images/epoch10.png)
+
+## Images generated in epoch: 20
+
+![epoch10](images/epoch20.png)
+
+## Images generated in epoch: 30
+
+![epoch10](images/epoch30.png)
+
+## Images generated in epoch: 40
+
+![epoch10](images/epoch40.png)
+
+## Images generated in epoch: 50
+
+![epoch10](images/epoch50.png)
 
 ## Getting the project files
 The project files can be found in our [public GitHub repo](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/), in the project-face-generation folder.
